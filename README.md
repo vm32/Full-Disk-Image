@@ -11,3 +11,4 @@ Deep Windows Registry Forensics: System and User Hives
     SAM
     NTUSER.DAT
     USRCLASS.DAT
+File size 6.4GB https://archive.org/details/4orensics.case-2.7z
