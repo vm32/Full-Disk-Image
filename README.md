@@ -18,6 +18,7 @@ Files path
 | File Name    | Full Path                                     |
 |--------------|----------------------------------------------|
 | SYSTEM       | `C:\Windows\System32\config\SYSTEM`         |
+| SECURITY     | `C:\Windows\System32\config\SECURITY`       |
 | SOFTWARE     | `C:\Windows\System32\config\SOFTWARE`       |
 | SAM          | `C:\Windows\System32\config\SAM`            |
 | NTUSER.DAT   | `C:\Users\Username\NTUSER.DAT`              |
