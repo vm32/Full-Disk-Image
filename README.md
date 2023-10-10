@@ -13,7 +13,7 @@ Deep Windows Registry Forensics: System and User Hives
     NTUSER.DAT
     USRCLASS.DAT
 
-Files path 
+# Files path 
 | File Name    | Full Path                                     |
 |--------------|----------------------------------------------|
 | SYSTEM       | `C:\Windows\System32\config\SYSTEM`         |
