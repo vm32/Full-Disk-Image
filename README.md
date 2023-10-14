@@ -25,3 +25,5 @@ Deep Windows Registry Forensics: System and User Hives
 
 
 File size 6.4GB https://archive.org/details/4orensics.case-2.7z
+
+![photo_2023-10-14_13-18-19](https://github.com/vm32/Full-Disk-Image/assets/21219411/fa471e97-959c-4ed5-8bcb-dd7584d4b70a)
