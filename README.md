@@ -56,6 +56,22 @@ The following table outlines the paths for crucial files within the Windows syst
 | NTUSER.DAT   | `C:\Users\[Username]\NTUSER.DAT`                                                               |
 | USRCLASS.DAT | `C:\Users\[Username]\AppData\Local\Microsoft\Windows\UsrClass.dat`                             |
 
+## Required Tools
+To effectively utilize this repository, users should have the following tools and software:
+
+- **Forensic Analysis Software:** EnCase, Autopsy, or similar.
+- **File Viewing Software:** Tools like WinHex or HxD for viewing hex files.
+- **Registry Analysis Tools:** Registry Explorer or similar for deep diving into Windows registry files.
+- **Data Recovery Software:** For restoring deleted files, software like Recuva or TestDisk can be useful.
+- **Email Analysis Tools:** Software like MailXaminer or similar for analyzing email data.
+- **Browser Forensics Tools:** Tools for analyzing browser artifacts, such as BrowserHistoryView.
+- **Communication App Analysis Tools:** Software specific to communication applications like Skype.
+- **Virtual Machine Software:** VirtualBox or VMware to safely analyze forensic images.
+- **Internet Connection:** For downloading tools, updates, and accessing online resources.
+
+Ensure that your system meets the requirements to run these tools effectively.
+
+
 ## Image Preview
 ![Digital Forensics Image Preview](https://github.com/vm32/Full-Disk-Image/assets/21219411/fa471e97-959c-4ed5-8bcb-dd7584d4b70a)
 
