@@ -72,7 +72,7 @@ To effectively utilize this repository, users should have the following tools an
 Ensure that your system meets the requirements to run these tools effectively.
 
 
-## Image Preview
+
 ![Digital Forensics Image Preview](https://github.com/vm32/Full-Disk-Image/assets/21219411/fa471e97-959c-4ed5-8bcb-dd7584d4b70a)
 
 ---
